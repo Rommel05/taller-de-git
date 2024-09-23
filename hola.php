@@ -1,4 +1,4 @@
 <?php
 @print "Hola {$argv[1]}\n";
-//comentario.
+//Este comentario está mal y hay que borrarlo
 ?>
